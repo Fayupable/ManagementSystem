@@ -21,9 +21,10 @@ import java.util.logging.Logger;
 public class CompanyDB {
 
     //Database baglantisi icin user naem password ve url olusturdum. 
-    private static final String userName = "root";
-    private static final String password = "12345678";
-    private static final String dbUrl = "jdbc:mysql://localhost:3306/proje_company_db";
+    //Enter your Mysql userName,password and url
+    private static final String userName = "";
+    private static final String password = "";
+    private static final String dbUrl = "";
 
     private static Connection conn;
 
