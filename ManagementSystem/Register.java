@@ -364,7 +364,7 @@ public class Register extends javax.swing.JFrame {
     }//GEN-LAST:event_lbl_register_closeMouseClicked
 
     private void btn_register_cancelActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_register_cancelActionPerformed
-        Login lgn = new Login();
+        logintasarim lgn = new logintasarim();
         lgn.setVisible(true);
         lgn.pack();
         lgn.setLocationRelativeTo(null);
@@ -383,7 +383,7 @@ public class Register extends javax.swing.JFrame {
 
     private void lbl_register_loginMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lbl_register_loginMouseClicked
 
-        Login lgn = new Login();
+        logintasarim lgn = new logintasarim();
         lgn.setVisible(true);
         lgn.pack();
         lgn.setLocationRelativeTo(null);

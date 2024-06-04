@@ -388,7 +388,7 @@ public class AdminPanel extends javax.swing.JFrame {
     private void mi_back_to_loginActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mi_back_to_loginActionPerformed
 
         // TODO add your handling code here:
-        Login lgn = new Login();
+        logintasarim lgn = new logintasarim();
         lgn.setVisible(true);
         this.dispose();
 
